@@ -7,10 +7,11 @@ Force Tags    s1
 
 *** Test Cases ***
 s1-t1
-  No Operation
+    No Operation
 
 s1-t2
-  No Operation
+    No Operation
 
 s1-t3
-  No Operation
+    [Tags]    wip
+    No Operation
